@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+venv/
+.env/
+env/
+
+# Pycache
+.pyc
+__pycache__/
+
+# Django
+*.pyo
+*.py~
+migrations/*
+
+# IDE
+.idea/
+.vscode/
+
+
+# doten
+.env
